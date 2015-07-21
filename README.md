@@ -137,3 +137,7 @@ Reading list and useful links
 - [Base58Check](https://github.com/gjaldon/base58check)
 - [HyperLedger](https://github.com/hyperledger/)
 
+#Other Awesome Lists
+- [jashmenn](https://github.com/jashmenn/bitcoin-reading-list)
+
+
