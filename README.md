@@ -53,6 +53,7 @@ Reading list and useful links
 - [Distributed ledger](http://www.fifthmoment.com/)
 - [IEE Article](http://spectrum.ieee.org/computing/networks/the-future-of-the-web-looks-a-lot-like-bitcoin)
 - [Multi Chains](http://www.multichain.com/)
+- [Vikram kumar](http://www.slideshare.net/kumar641/paradigm-shift-from-the-bitcoin-blockchain-to-networked-computing)
 
 #Online Courses
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
