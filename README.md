@@ -107,7 +107,6 @@ Reading list and useful links
 #Ethereum Dev Tools
 - [Ether Party](http://etherparty.io/)
 
-
 #Academia
 - [Brians Blog](http://suitpossum.blogspot.com/2014/12/academic-bitcoin-research.html)
 - [Stanford](http://bitcoin.stanford.edu/)
@@ -119,6 +118,8 @@ Reading list and useful links
 - [Yale CS](http://dedis.cs.yale.edu/dissent/pres/150610-nist-cothorities.pdf)
 - [encrptomedia](http://encryptopedia.com/)
 - [Awesome List](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/htmlview?pli=1)
+- [Enigma MIT](http://siliconangle.com/blog/2015/07/22/alex-sandy-pentland-on-enigma-using-the-bitcoin-blockchain-to-compute-with-secure-data-mitcdoiq/)
+- 
 
 #Venture Capital
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
