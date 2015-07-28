@@ -50,10 +50,13 @@ Reading list and useful links
 - [Minimal Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
 - [Microtransaction](http://quartzjer.github.io/pennybank/)
 - [Tim Swanson slides](http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape)
+- [Tim Swanson Permisoned Ledger](http://www.ofnumbers.com/2015/07/27/what-is-permissioned-on-permissionless/)
+- [Time Swanson Blockchain](http://www.slideshare.net/MrCollectrix/five-year-vision-blockchain-university)
 - [Distributed ledger](http://www.fifthmoment.com/)
 - [IEE Article](http://spectrum.ieee.org/computing/networks/the-future-of-the-web-looks-a-lot-like-bitcoin)
 - [Multi Chains](http://www.multichain.com/)
 - [Vikram kumar](http://www.slideshare.net/kumar641/paradigm-shift-from-the-bitcoin-blockchain-to-networked-computing)
+- [Bitcoin vs Blockchain](http://www.multichain.com/blog/2015/07/bitcoin-vs-blockchain-debate/)
 
 #Online Courses
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
