@@ -34,6 +34,7 @@ Reading list and useful links
 #Bitcoin Mining
 - [Mining the hardway](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
 - [Miners](http://cointext.com/what-problem-is-solved-by-bitcoin-miners/)
+- [MIT Presentation](http://cryptogeeks.com/bitcoin-professional-mit-presentation-no-animation-time-about-bitcoin-mining)
 
 #Sidechains and Lightning networks
 - [Blockstream Sidechain Paper](https://www.blockstream.com/wp-content/uploads/2014/10/sidechains.pdf)
