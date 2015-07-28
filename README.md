@@ -20,16 +20,18 @@ Reading list and useful links
 - [Elliptic curve](https://www.youtube.com/watch?v=kzyLW44Ve2k&feature=youtu.be)
 - [Elliptic curve in node](https://github.com/indutny/elliptic)
 - [Royal fork blog](http://www.royalforkblog.com/2014/09/04/ecc/)
+- [Division and Inversion Over Finite Fields](http://cdn.intechopen.com/pdfs-wm/29704.pdf)
 
 #Merkel Trees
 - [Danileloesha](http://danieloshea.com/2011/12/07/merkle-tree.html)
 - [Youtube](https://www.youtube.com/watch?v=gUwXCt1qkBU)
 - [Marcoyuen article](http://www.marcoyuen.com/articles/2014/02/01/merkle-tree.html)
 
-#Transaction Scripts
+#Transaction Scripts and Transactions
 - [Transaction Scripts](http://www.royalforkblog.com/2014/11/20/txn-demo/)
 - [Basic Blockchain Programming](http://davidederosa.com/basic-blockchain-programming/)
 - [Desconstructing Transactions](http://www.siliconian.com/blog/16-bitcoin-blockchain/22-deconstructing-bitcoin-transactions)
+- [Bitcoin Transactions for humnans](https://github.com/ascribe/transactions)
 
 #Bitcoin Mining
 - [Mining the hardway](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
