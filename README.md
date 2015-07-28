@@ -38,7 +38,6 @@ Reading list and useful links
 - [Bitcoin Transactions for humnans](https://github.com/ascribe/transactions)
 )
 
-
 #Multisigs
 - [Copay ](https://www.youtube.com/watch?v=Fvmctsl1SgE)
 - 
@@ -52,7 +51,7 @@ Reading list and useful links
 - [Blockstream Sidechain Paper](https://www.blockstream.com/wp-content/uploads/2014/10/sidechains.pdf)
 - [Lightning networks](http://rusty.ozlabs.org/?p=450)
 - [Factom Whitepaper](https://github.com/FactomProject/FactomDocs/blob/master/whitepaper.md)
--
+
 
 #IDE and Dev tools
 - [Javacript Interpreter](http://www.followthecoin.com/build-bitcoin-script-interpreter-javascript/)
@@ -74,6 +73,7 @@ Reading list and useful links
 - [Bitcoin vs Blockchain](http://www.multichain.com/blog/2015/07/bitcoin-vs-blockchain-debate/)
 - [Blockchain and Banks](http://linkis.com/gendal.me/2015/05/12/NdKue)
 - [Reputation Systems](https://medium.com/humanizing-bitcoin-blockchain)
+- [IBM IOT](http://public.dhe.ibm.com/common/ssi/ecm/gb/en/gbe03620usen/GBE03620USEN.PDF)
 
 #Online Courses
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
