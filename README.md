@@ -40,7 +40,7 @@ Reading list and useful links
 
 #Multisigs
 - [Copay ](https://www.youtube.com/watch?v=Fvmctsl1SgE)
-- 
+ 
 
 #Bitcoin Mining
 - [Mining the hardway](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
