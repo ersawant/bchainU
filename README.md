@@ -36,9 +36,11 @@ Reading list and useful links
 - [Miners](http://cointext.com/what-problem-is-solved-by-bitcoin-miners/)
 - [MIT Presentation](http://cryptogeeks.com/bitcoin-professional-mit-presentation-no-animation-time-about-bitcoin-mining)
 
-#Sidechains and Lightning networks
+#Sidechains/Lightning networks
 - [Blockstream Sidechain Paper](https://www.blockstream.com/wp-content/uploads/2014/10/sidechains.pdf)
 - [Lightning networks](http://rusty.ozlabs.org/?p=450)
+- [Factom Whitepaper](https://github.com/FactomProject/FactomDocs/blob/master/whitepaper.md)
+-
 
 #IDE and Dev tools
 - [Javacript Interpreter](http://www.followthecoin.com/build-bitcoin-script-interpreter-javascript/)
