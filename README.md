@@ -57,6 +57,7 @@ Reading list and useful links
 - [Multi Chains](http://www.multichain.com/)
 - [Vikram kumar](http://www.slideshare.net/kumar641/paradigm-shift-from-the-bitcoin-blockchain-to-networked-computing)
 - [Bitcoin vs Blockchain](http://www.multichain.com/blog/2015/07/bitcoin-vs-blockchain-debate/)
+- [Blockchain and Banks](http://linkis.com/gendal.me/2015/05/12/NdKue)
 
 #Online Courses
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
