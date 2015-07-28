@@ -41,7 +41,6 @@ Reading list and useful links
 #Multisigs
 - [Copay ](https://www.youtube.com/watch?v=Fvmctsl1SgE)
  
-
 #Bitcoin Mining
 - [Mining the hardway](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
 - [Miners](http://cointext.com/what-problem-is-solved-by-bitcoin-miners/)
@@ -139,7 +138,7 @@ Reading list and useful links
 - [Yale CS](http://dedis.cs.yale.edu/dissent/pres/150610-nist-cothorities.pdf)
 - [encrptomedia](http://encryptopedia.com/)
 - [Awesome List](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/htmlview?pli=1)
-- [Enigma MIT](http://siliconangle.com/blog/2015/07/22/alex-sandy-pentland-on-enigma-using-the-bitcoin-blockchain-to-compute-with-secure-data-mitcdoiq/)
+- [Enigma MIT](http://siliconangle.com/blog/2015/07/22/alex-sandy-pentland-on-enigma-using-the-bitcoin-blockchain--to-compute-with-secure-data-mitcdoiq/)
 - 
 
 #Venture Capital
