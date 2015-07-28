@@ -91,6 +91,7 @@ Reading list and useful links
 - [Netherlands Central bank](http://cointelegraph.com/news/113033/ing-other-major-dutch-banks-take-interest-in-blockchain-tech)
 - [CFA Institute](http://www.cfainstitute.org/learning/products/multimedia/Pages/120025.aspx?WPID=BrowseProducts)
 - [Federal Reserve](http://www.federalreserve.gov/econresdata/feds/2014/files/2014104pap.pdf)
+- [Fidelity Investments](https://www.cryptocoinsnews.com/one-worlds-largest-mutual-fund-2-trillion-aum-wants-trademark-fidelitycoin/)
 - [Another List](https://www.coingecko.com/buzz/16-banks-experimenting-with-blockchain-technology?locale=en)
 
 #Legal and Regulations
@@ -128,7 +129,6 @@ Reading list and useful links
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
 - [Ledra Captial](http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series)
 - [Red Point](http://tomtunguz.com/fastest-growing-areas-investment-2015/)
-
 
 #Presentations from Cohort-3
 -  [Rayan X](https://www.dropbox.com/s/b3dav3kaofjwx8h/Bitwise%20Bitcoin-%20Transactions%2C%20Scripts%20and%20Blocks.pdf?dl=0)
