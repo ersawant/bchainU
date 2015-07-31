@@ -73,6 +73,7 @@ Reading list and useful links
 - [Blockchain and Banks](http://linkis.com/gendal.me/2015/05/12/NdKue)
 - [Reputation Systems](https://medium.com/humanizing-bitcoin-blockchain)
 - [IBM IOT](http://public.dhe.ibm.com/common/ssi/ecm/gb/en/gbe03620usen/GBE03620USEN.PDF)
+- [Blockchain Startups](http://letstalkpayments.com/blockchain-use-cases-comprehensive-analysis-startups-invoved/)
 
 #Online Courses
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
