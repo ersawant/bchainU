@@ -100,6 +100,7 @@ Reading list and useful links
 - [Deloitte Rubix](http://rubixbydeloitte.com/)
 - [Standard Chartard](https://www.linkedin.com/pulse/blockchain-disruptive-force-good-anju-patwardhan)
 - [BNP Paribas](http://www.ibtimes.co.uk/french-bitcoin-revolution-bnp-paribas-plans-add-crypto-its-currency-funds-1512360)
+- [Deutsche Banke](http://blogs.wsj.com/digits/2015/07/31/deutsche-bank-exploring-blockchain-uses/)
 
 #Central Banks/Govts/Institutes
 - [Bank of Englad report](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q3digitalcurrenciesbitcoin1.pdf)
