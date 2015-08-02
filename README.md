@@ -74,6 +74,7 @@ Reading list and useful links
 - [IBM IOT](http://public.dhe.ibm.com/common/ssi/ecm/gb/en/gbe03620usen/GBE03620USEN.PDF)
 - [Blockchain Startups](http://letstalkpayments.com/blockchain-use-cases-comprehensive-analysis-startups-invoved/)
 - [Block Seer](https://www.blockseer.com/)
+- [Corporate Blockchains](http://blogs.wsj.com/cio/2015/07/27/blockchain-in-the-corporate-environment-has-big-potential-but-faces-implementation-challenges/)
 
 #Online Courses
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
