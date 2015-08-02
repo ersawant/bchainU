@@ -36,7 +36,6 @@ Reading list and useful links
 - [Basic Blockchain Programming](http://davidederosa.com/basic-blockchain-programming/)
 - [Desconstructing Transactions](http://www.siliconian.com/blog/16-bitcoin-blockchain/22-deconstructing-bitcoin-transactions)
 - [Bitcoin Transactions for humnans](https://github.com/ascribe/transactions)
-)
 
 #Multisigs
 - [Copay ](https://www.youtube.com/watch?v=Fvmctsl1SgE)
@@ -163,5 +162,3 @@ Reading list and useful links
 
 #Other Awesome Lists
 - [jashmenn](https://github.com/jashmenn/bitcoin-reading-list)
-
-
