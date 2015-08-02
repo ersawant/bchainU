@@ -51,7 +51,6 @@ Reading list and useful links
 - [Lightning networks](http://rusty.ozlabs.org/?p=450)
 - [Factom Whitepaper](https://github.com/FactomProject/FactomDocs/blob/master/whitepaper.md)
 
-
 #IDE and Dev tools
 - [Javacript Interpreter](http://www.followthecoin.com/build-bitcoin-script-interpreter-javascript/)
 - [Brain Wallet](http://www.brainwallet.org)
@@ -74,6 +73,7 @@ Reading list and useful links
 - [Reputation Systems](https://medium.com/humanizing-bitcoin-blockchain)
 - [IBM IOT](http://public.dhe.ibm.com/common/ssi/ecm/gb/en/gbe03620usen/GBE03620USEN.PDF)
 - [Blockchain Startups](http://letstalkpayments.com/blockchain-use-cases-comprehensive-analysis-startups-invoved/)
+- [Block Seer](https://www.blockseer.com/)
 
 #Online Courses
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
