@@ -98,6 +98,7 @@ Reading list and useful links
 - [ABN-AMRO,ING Bank,Rabo Bank](http://www.cryptosnews.com/?p=997)
 - [Deloitte](http://www.coindesk.com/deloitte-blockchain-auditing-consulting/)
 - [Deloitte Rubix](http://rubixbydeloitte.com/)
+- [Overstock t0.com](http://www.wired.com/2015/08/overstock-ceo-uses-bitcoin-tech-loan-stocks-directly/)
 - [Standard Chartard](https://www.linkedin.com/pulse/blockchain-disruptive-force-good-anju-patwardhan)
 - [BNP Paribas](http://www.ibtimes.co.uk/french-bitcoin-revolution-bnp-paribas-plans-add-crypto-its-currency-funds-1512360)
 - [Deutsche Banke](http://blogs.wsj.com/digits/2015/07/31/deutsche-bank-exploring-blockchain-uses/)
