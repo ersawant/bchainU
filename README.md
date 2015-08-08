@@ -162,5 +162,10 @@ Reading list and useful links
 - [Base58Check](https://github.com/gjaldon/base58check)
 - [HyperLedger](https://github.com/hyperledger/)
 
+#Micro Payments
+- [Whitepapers](https://github.com/utxo/wheels/wiki)
+
 #Other Awesome Lists
 - [jashmenn](https://github.com/jashmenn/bitcoin-reading-list)
+
+
