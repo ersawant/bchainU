@@ -91,7 +91,7 @@ Reading list and useful links
 - [Fidor Bank](http://www.coindesk.com/fidor-becomes-first-bank-to-use-ripple-payment-protocol/)
 - [ANZ Bank](http://www.newsbtc.com/2015/06/09/westpac-and-anz-join-ripple-labs-bandwagon-with-cba/)
 - [Commonwealth Bank](http://www.newsbtc.com/2015/06/01/commonwealth-bank-of-australia-to-work-with-ripple-labs/)
-- [BNP Paribas] (http://securities.bnpparibas.com/quintessence/hot-topics/beyond/bitcoin-and-blockchain-what-you.html#.VZtjlHUVhBf)
+- [BNP Paribas](http://securities.bnpparibas.com/quintessence/hot-topics/beyond/bitcoin-and-blockchain-what-you.html#.VZtjlHUVhBf)
 - [First Data](http://www.forbes.com/sites/laurashin/2015/06/17/why-the-bitcoin-blockchain-could-make-gift-cards-a-consumer-favorite-even-more-beloved/)
 - [First Data Gyft](https://medium.com/@giyom/building-gift-cards-2-0-on-the-block-chain-3ae9e7cf4152)
 - [Goldman Sach's report](https://slack-files.com/T04BV3AFV-F06KT10BS-82d72f1308)
@@ -103,6 +103,7 @@ Reading list and useful links
 - [BNP Paribas](http://www.ibtimes.co.uk/french-bitcoin-revolution-bnp-paribas-plans-add-crypto-its-currency-funds-1512360)
 - [Deutsche Banke](http://blogs.wsj.com/digits/2015/07/31/deutsche-bank-exploring-blockchain-uses/)
 - [Deutsche Bank Research](https://www.dbresearch.de/servlet/reweb2.ReWEB;jsessionid=49EA7D06E941D35779A42A2B27BF25F5.srv-net-dbr-de?document=PROD0000000000359046&rwnode=DBR_INTERNET_EN-PROD$TEAMS_EN&rwobj=ReDisplay.Start.class&rwsite=DBR_INTERNET_en-PROD)
+- [Barclay's Bank](https://bitcoinmagazine.com/21469/ethereum-version-tailored-banks-developed-barclays-interested/)
 - [Accenture](https://bitcoinmagazine.com/21427/accenture-executives-propose-replacing-bitcoin-closed-blockchain/)
 - [PWC](http://www.pwc.com/us/en/financial-services/publications/assets/pwc-cryptocurrency-evolution.pdf)
 
