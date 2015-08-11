@@ -102,7 +102,9 @@ Reading list and useful links
 - [Standard Chartard](https://www.linkedin.com/pulse/blockchain-disruptive-force-good-anju-patwardhan)
 - [BNP Paribas](http://www.ibtimes.co.uk/french-bitcoin-revolution-bnp-paribas-plans-add-crypto-its-currency-funds-1512360)
 - [Deutsche Banke](http://blogs.wsj.com/digits/2015/07/31/deutsche-bank-exploring-blockchain-uses/)
+- [Deutsche Bank Research](https://www.dbresearch.de/servlet/reweb2.ReWEB;jsessionid=49EA7D06E941D35779A42A2B27BF25F5.srv-net-dbr-de?document=PROD0000000000359046&rwnode=DBR_INTERNET_EN-PROD$TEAMS_EN&rwobj=ReDisplay.Start.class&rwsite=DBR_INTERNET_en-PROD)
 - [Accenture](https://bitcoinmagazine.com/21427/accenture-executives-propose-replacing-bitcoin-closed-blockchain/)
+- [PWC](http://www.pwc.com/us/en/financial-services/publications/assets/pwc-cryptocurrency-evolution.pdf)
 
 #Central Banks/Govts/Institutes
 - [Bank of Englad report](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q3digitalcurrenciesbitcoin1.pdf)
