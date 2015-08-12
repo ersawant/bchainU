@@ -131,6 +131,7 @@ Reading list and useful links
 - [Cosomo Solidity](http://meteor-dapp-cosmo.meteor.com/)
 - [Ethereum Gas Analysis](https://github.com/LeastAuthority/ethereum-analyses)
 - [Rest API's for Ethereum blockchain](http://blockapps.net/apidocs/#introduction)
+- [Ethereum Roman's Notes](http://blog.rplasil.name/search/label/ethereum)
 
 #Ethereum Dev Tools
 - [Ether Party](http://etherparty.io/)
