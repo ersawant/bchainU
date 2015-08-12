@@ -2,7 +2,7 @@
 ![Blockchain](https://bitcoinmagazine.com/wp-content/uploads/2013/03/blkfork1.jpg)
 
 # bchainU
-Reading list and useful links
+Reading list and useful links. Scroll down for a list of Financial services working on the Blockchain Tech
 
 #Start here..
 - [Crypography](http://blog.bettercrypto.com/?page_id=57)
