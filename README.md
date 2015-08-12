@@ -107,6 +107,7 @@ Reading list and useful links
 - [Barclay's Bank](https://bitcoinmagazine.com/21469/ethereum-version-tailored-banks-developed-barclays-interested/)
 - [Accenture](https://bitcoinmagazine.com/21427/accenture-executives-propose-replacing-bitcoin-closed-blockchain/)
 - [PWC](http://www.pwc.com/us/en/financial-services/publications/assets/pwc-cryptocurrency-evolution.pdf)
+- [Indian IT firms](http://www.livemint.com/Companies/9bfMN9evtiDSsJZaq16w8M/Indian-IT-firms-eye-technology-behind-Bitcoin-for-disruptive.html)
 
 #Central Banks/Govts/Institutes
 - [Bank of Englad report](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q3digitalcurrenciesbitcoin1.pdf)
