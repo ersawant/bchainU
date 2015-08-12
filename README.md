@@ -21,6 +21,7 @@ Reading list and useful links
 - [Elliptic curve in node](https://github.com/indutny/elliptic)
 - [Royal fork blog](http://www.royalforkblog.com/2014/09/04/ecc/)
 - [Division and Inversion Over Finite Fields](http://cdn.intechopen.com/pdfs-wm/29704.pdf)
+- [Cryptocompare](https://www.cryptocompare.com/wallets/guides/what-is-elliptic-curve-cryptography/)
 
 #Bitcoin Address
 - [Sha256 and RIPEMD160](https://bitcoin.stackexchange.com/questions/9202/why-does-bitcoin-use-two-hash-functions-sha-256-and-ripemd-160-to-create-an-ad)
