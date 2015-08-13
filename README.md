@@ -95,6 +95,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [BNP Paribas](http://securities.bnpparibas.com/quintessence/hot-topics/beyond/bitcoin-and-blockchain-what-you.html#.VZtjlHUVhBf)
 - [First Data](http://www.forbes.com/sites/laurashin/2015/06/17/why-the-bitcoin-blockchain-could-make-gift-cards-a-consumer-favorite-even-more-beloved/)
 - [First Data Gyft](https://medium.com/@giyom/building-gift-cards-2-0-on-the-block-chain-3ae9e7cf4152)
+- [Visa Inc](http://www.livemint.com/Industry/xFjsCbdRBon4Z0zTcTCagM/Visa-joins-firms-betting-on-technology-behind-Bitcoin.html)
 - [Goldman Sach's report](https://slack-files.com/T04BV3AFV-F06KT10BS-82d72f1308)
 - [ABN-AMRO,ING Bank,Rabo Bank](http://www.cryptosnews.com/?p=997)
 - [Deloitte](http://www.coindesk.com/deloitte-blockchain-auditing-consulting/)
