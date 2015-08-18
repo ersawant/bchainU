@@ -88,6 +88,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [UBS bank](http://blogs.wsj.com/digits/2015/04/02/ubs-to-open-blockchain-research-lab-in-london/)
 - [DBS bank](http://bravenewcoin.com/news/dbs-bank-to-host-blockchain-hackathon/)
 - [USAA](http://www.coindesk.com/usaa-blockchain-technology-decentralize-operations/)
+- [Long Finance Insurance Paper](http://www.longfinance.net/images/Chain_Of_A_Lifetime_December2014.pdf)
 - [NASDAQ](http://www.nasdaq.com/press-release/nasdaq-launches-enterprisewide-blockchain-technology-initiative-20150511-00485)
 - [RBS Bank](http://www.coindesk.com/rbs-trials-ripple-part-3-5-billion-tech-revamp/)
 - [Fidor Bank](http://www.coindesk.com/fidor-becomes-first-bank-to-use-ripple-payment-protocol/)
