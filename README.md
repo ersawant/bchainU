@@ -124,6 +124,9 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Fidelity Investments](https://www.cryptocoinsnews.com/one-worlds-largest-mutual-fund-2-trillion-aum-wants-trademark-fidelitycoin/)
 - [Another List](https://www.coingecko.com/buzz/16-banks-experimenting-with-blockchain-technology?locale=en)
 
+#IOT and Blockchain
+[Filament](http://www.coindesk.com/filament-nets-5-million-for-blockchain-based-internet-of-things-hardware/)
+
 #Legal and Regulations
 - [Bitcoin law](http://www.coindesk.com/bitcoin-law-what-us-businesses-need-to-know/)
 - [Money transmission License](http://www.coindesk.com/bitcoin-law-money-transmission-state-level-us/)
