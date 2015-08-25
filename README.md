@@ -117,6 +117,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 #Central Banks/Govts/Institutes
 - [Bank of Englad report](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q3digitalcurrenciesbitcoin1.pdf)
 - [UK Payment council](http://www.ukdca.org/downloads/UKDCA_HMT_Digital_Currencies_031214.pdf)
+- [Australian Parliament](http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Economics/Digital_currency/Report)
 - [Singapore central bank ](http://www.coindesk.com/singapores-central-bank-backs-blockchain-project-with-225m-fintech-plan/)
 - [Netherlands Central bank](http://cointelegraph.com/news/113033/ing-other-major-dutch-banks-take-interest-in-blockchain-tech)
 - [CFA Institute](http://www.cfainstitute.org/learning/products/multimedia/Pages/120025.aspx?WPID=BrowseProducts)
