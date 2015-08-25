@@ -80,6 +80,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 #Online Courses
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
 - [Coursera](https://www.coursera.org/course/bitcointech)
+- [Stanford](http://scpd.stanford.edu/search/publicCourseSearchDetails.do?method=load&courseId=58085700)
 
 #Blockchain in Banks and Financial Services
 - [Citibank](http://cointelegraph.com/news/114717/citi-develops-3-blockchains-with-own-citicoin-token)
