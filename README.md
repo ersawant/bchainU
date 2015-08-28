@@ -133,6 +133,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Bitcoin law](http://www.coindesk.com/bitcoin-law-what-us-businesses-need-to-know/)
 - [Money transmission License](http://www.coindesk.com/bitcoin-law-money-transmission-state-level-us/)
 - [Bitcoin Law](http://www.coindesk.com/bitcoin-law-money-transmission-compliance-avoidance/)
+- [Coincenter](http://coincenter.org/2015/06/tracking-bitcoin-regulation-state-by-state/)
 
 #Ethereum 
 - [Dapps](https://github.com/ethereum/dapp-bin)
