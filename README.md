@@ -76,6 +76,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Blockchain Startups](http://letstalkpayments.com/blockchain-use-cases-comprehensive-analysis-startups-invoved/)
 - [Block Seer](https://www.blockseer.com/)
 - [Corporate Blockchains](http://blogs.wsj.com/cio/2015/07/27/blockchain-in-the-corporate-environment-has-big-potential-but-faces-implementation-challenges/)
+- [Digital Asset Holdings](http://www.bloomberg.com/news/features/2015-09-01/blythe-masters-tells-banks-the-blockchain-changes-everything)
 
 #Online Courses
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
