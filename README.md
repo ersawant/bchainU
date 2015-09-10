@@ -8,6 +8,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Complete Guide to Bitcoin Blockstrap](http://blockstrap.com/en/a-complete-beginners-guide-to-blockchain-technology/)
 - [Crypography](http://blog.bettercrypto.com/?page_id=57)
 - [Christopher Allen Dev Source](https://github.com/ChristopherA/Blockchain-Developer-Resources)
+- [Bitcoin and Blocks](http://bitsonblocks.net/2015/09/09/a-gentle-introduction-to-blockchain-technology/)
 
 #Math 
 - [Hex tutorial](http://quashnick.net/geek_stuff/HEX2DEC.html)
