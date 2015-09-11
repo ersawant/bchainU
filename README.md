@@ -79,10 +79,13 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Corporate Blockchains](http://blogs.wsj.com/cio/2015/07/27/blockchain-in-the-corporate-environment-has-big-potential-but-faces-implementation-challenges/)
 - [Digital Asset Holdings](http://www.bloomberg.com/news/features/2015-09-01/blythe-masters-tells-banks-the-blockchain-changes-everything)
 
-#Online Courses
+#Courses on MOOC
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
 - [Coursera](https://www.coursera.org/course/bitcointech)
 - [Stanford](http://scpd.stanford.edu/search/publicCourseSearchDetails.do?method=load&courseId=58085700)
+
+#Courses on Campus
+- [MIT media labs](http://blockchain.media.mit.edu/syllabus.html)
 
 #Blockchain in Banks and Financial Services
 - [Citibank](http://cointelegraph.com/news/114717/citi-develops-3-blockchains-with-own-citicoin-token)
