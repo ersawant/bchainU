@@ -79,6 +79,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Corporate Blockchains](http://blogs.wsj.com/cio/2015/07/27/blockchain-in-the-corporate-environment-has-big-potential-but-faces-implementation-challenges/)
 - [Digital Asset Holdings](http://www.bloomberg.com/news/features/2015-09-01/blythe-masters-tells-banks-the-blockchain-changes-everything)
 - [Scaling Bitcoin Presentations](https://www.dropbox.com/sh/xrnpadhhee26482/AAD1UYgVDXgYByGe4FnqIWBka?dl=0)
+- [Scaling Bitcoin Youtube](https://www.youtube.com/channel/UCmwaDulmQtX-H8FOSQTKqMg)
 
 #Courses on MOOC
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
