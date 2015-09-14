@@ -95,6 +95,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Bny Mellon London](http://www.zyen.com/Presentations/Presentations/Blockchain%20Masterclass%20-%20BNY%20Mellon,%20FinTech%20Circle%20-%202015.06.02%20v1.2.pdf)
 - [Lloyd's](http://www.coindesk.com/bitcoin-and-blockchain-up-for-debate-at-futuremoney-conference/)
 - [UBS bank](http://blogs.wsj.com/digits/2015/04/02/ubs-to-open-blockchain-research-lab-in-london/)
+- [UBS bank Research labs](http://www.ibtimes.co.uk/ubs-reveals-its-interest-sidechains-well-ethereum-1519706)
 - [DBS bank](http://bravenewcoin.com/news/dbs-bank-to-host-blockchain-hackathon/)
 - [USAA](http://www.coindesk.com/usaa-blockchain-technology-decentralize-operations/)
 - [Long Finance Insurance Paper](http://www.longfinance.net/images/Chain_Of_A_Lifetime_December2014.pdf)
