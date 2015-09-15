@@ -123,6 +123,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Indian IT firms](http://www.livemint.com/Companies/9bfMN9evtiDSsJZaq16w8M/Indian-IT-firms-eye-technology-behind-Bitcoin-for-disruptive.html)
 - [sogeti labs](http://labs.sogeti.com/wp-content/uploads/2015/08/D2D-3_EN-web.pdf)
 - [UPS](http://cointelegraph.com/news/115242/ups-exec-dreams-of-a-bitcoin-future-on-corporate-blog?ref=45)
+- [R3CEV](http://www.coindesk.com/global-investment-banks-back-blockchain-initiative/)
 
 #Central Banks/Govts/Institutes
 - [Bank of Englad report](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q3digitalcurrenciesbitcoin1.pdf)
