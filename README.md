@@ -194,6 +194,10 @@ Reading list and useful links. Scroll down for a list of Financial services work
 #Micro Payments
 - [Whitepapers](https://github.com/utxo/wheels/wiki)
 
+#Digital Assets
+- [Choose Case](http://blog.choosecase.com/2015/09/09/white-paper-securing-digital-assets-on-the-blockchain/)
+
+
 #Other Awesome Lists
 - [jashmenn](https://github.com/jashmenn/bitcoin-reading-list)
 - [FuzzyHobbit](https://github.com/FuzzyHobbit/bitcoin-reading-list)
