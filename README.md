@@ -196,5 +196,6 @@ Reading list and useful links. Scroll down for a list of Financial services work
 
 #Other Awesome Lists
 - [jashmenn](https://github.com/jashmenn/bitcoin-reading-list)
+- [Ledra Capital](http://ledracapital.com/blog/?category=Bitcoin) 
 
 
