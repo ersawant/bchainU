@@ -205,5 +205,6 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [jashmenn](https://github.com/jashmenn/bitcoin-reading-list)
 - [FuzzyHobbit](https://github.com/FuzzyHobbit/bitcoin-reading-list)
 - [Ledra Capital](http://ledracapital.com/blog/?category=Bitcoin) 
+- [Reddit list](https://www.reddit.com/r/blockchainprogramming/comments/3naz2y/github_code_resources_and_online_readingtutorials/)
 
 
