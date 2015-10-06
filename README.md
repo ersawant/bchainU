@@ -128,6 +128,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [R3CEV](http://www.coindesk.com/global-investment-banks-back-blockchain-initiative/)
 - [R3CEV](http://www.ft.com/intl/cms/s/0/f358ed6c-5ae0-11e5-9846-de406ccb37f2.html#axzz3lpN4Gji6)
 - [R3CEV Update](http://www.finextra.com/news/fullstory.aspx?newsitemid=27906)
+- [Ripple and R3CEV ](http://www.businessinsider.com/santander-innoventures-invests-4-million-in-ripple-labs-2015-10)
 
 #Central Banks/Govts/Institutes
 - [Bank of Englad report](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q3digitalcurrenciesbitcoin1.pdf)
