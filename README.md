@@ -95,6 +95,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Citibank](http://cointelegraph.com/news/114717/citi-develops-3-blockchains-with-own-citicoin-token)
 - [Bny Mellon](http://blogs.wsj.com/cio/2015/04/05/bny-mellon-explores-bitcoins-potential/)
 - [Bny Mellon London](http://www.zyen.com/Presentations/Presentations/Blockchain%20Masterclass%20-%20BNY%20Mellon,%20FinTech%20Circle%20-%202015.06.02%20v1.2.pdf)
+- [Bny Mellon Fintech](https://www.bnymellon.com/_global-assets/pdf/our-thinking/innovation-in-payments-the-future-is-fintech.pdf)
 - [Lloyd's](http://www.coindesk.com/bitcoin-and-blockchain-up-for-debate-at-futuremoney-conference/)
 - [UBS bank](http://blogs.wsj.com/digits/2015/04/02/ubs-to-open-blockchain-research-lab-in-london/)
 - [UBS bank Research labs](http://www.ibtimes.co.uk/ubs-reveals-its-interest-sidechains-well-ethereum-1519706)
