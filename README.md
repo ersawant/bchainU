@@ -183,6 +183,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Awesome List](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/htmlview?pli=1)
 - [Enigma MIT](http://siliconangle.com/blog/2015/07/22/alex-sandy-pentland-on-enigma-using-the-bitcoin-blockchain--to-compute-with-secure-data-mitcdoiq/)
 - [Scaling Bitcoin Academic Papers](https://scalingbitcoin.org/montreal2015/#papers)
+- [Cornell Bitcoin-ng](http://hackingdistributed.com/2015/10/14/bitcoin-ng/)
 
 #Venture Capital
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
