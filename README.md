@@ -1,5 +1,5 @@
 
-![Blockchain](https://bitcoinmagazine.com/wp-content/uploads/2013/03/blkfork1.jpg)
+![Blockchain](https://www.cryptocoinsnews.com/wp-content/uploads/2014/11/bitcoin-blockchain.jpg)
 
 # bchainU
 Reading list and useful links. Scroll down for a list of Financial services working on the Blockchain Tech
@@ -161,6 +161,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Dapps list](https://docs.google.com/spreadsheets/d/1VdRMFENPzjL2V-vZhcc_aa5-ysf243t5vXlxC2b054g/edit?pli=1#gid=0)
 - [Solidity](https://eng.erisindustries.com/tutorials/2015/03/11/solidity-1/)
 - [State of Dapps](http://www.slideshare.net/tomoakisato35/dappsmedia-state-of-the-dapps-ethereum-may-2015)
+- [State of Dapps 2](http://dapps.ethercasts.com/)
 - [Ethereum 101] (http://www.ethereum101.org/)
 - [Cosomo Solidity](http://meteor-dapp-cosmo.meteor.com/)
 - [Ethereum Gas Analysis](https://github.com/LeastAuthority/ethereum-analyses)
