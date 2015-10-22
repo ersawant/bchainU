@@ -1,5 +1,4 @@
 
-![Blockchain](https://www.cryptocoinsnews.com/wp-content/uploads/2014/11/bitcoin-blockchain.jpg)
 
 # bchainU
 Reading list and useful links. Scroll down for a list of Financial services working on the Blockchain Tech
