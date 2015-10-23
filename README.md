@@ -185,6 +185,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Scaling Bitcoin Academic Papers](https://scalingbitcoin.org/montreal2015/#papers)
 - [Cornell Bitcoin-ng](http://hackingdistributed.com/2015/10/14/bitcoin-ng/)
 - [Univ of Twente](http://essay.utwente.nl/66966/1/Huls_MA_EWI.pdf)
+- [NUS singapore](http://people.cs.uchicago.edu/~teutsch/papers/ethereum-cc.pdf)
 
 #Venture Capital
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
