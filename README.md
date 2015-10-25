@@ -10,6 +10,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Bitcoin and Blocks](http://bitsonblocks.net/2015/09/09/a-gentle-introduction-to-blockchain-technology/)
 - [Bitcoin terms Part 1](http://blog.blockchain.com/2014/12/23/10-commonly-used-bitcoin-terms-explained/)
 - [Bitcoin terms Part 2](https://blog.blockchain.com/2015/03/04/10-commonly-used-bitcoin-terms-explained-part-two/)
+- [Bitcoin Protocol Explained](https://www.youtube.com/watch?v=UieiMU-ImvI&feature=share&list=PLQVvvaa0QuDebbCxrDPCux6SzC1RET4mF)
 
 #Math 
 - [Hex tutorial](http://quashnick.net/geek_stuff/HEX2DEC.html)
