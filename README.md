@@ -49,6 +49,9 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Miners](http://cointext.com/what-problem-is-solved-by-bitcoin-miners/)
 - [MIT Presentation](http://cryptogeeks.com/bitcoin-professional-mit-presentation-no-animation-time-about-bitcoin-mining)
 
+#Proof of work
+-[Python Proof of Work](http://alexgorale.com/how-proof-of-work-works)
+
 #Sidechains/Lightning networks
 - [Blockstream Sidechain Paper](https://www.blockstream.com/wp-content/uploads/2014/10/sidechains.pdf)
 - [Lightning networks](http://rusty.ozlabs.org/?p=450)
