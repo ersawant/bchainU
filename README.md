@@ -50,7 +50,9 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [MIT Presentation](http://cryptogeeks.com/bitcoin-professional-mit-presentation-no-animation-time-about-bitcoin-mining)
 
 #Proof of work
--[Python Proof of Work](http://alexgorale.com/how-proof-of-work-works)
+- [Python POW](http://alexgorale.com/how-proof-of-work-works)
+- [Iprogrammer POW](http://www.i-programmer.info/babbages-bag/2486-inside-bitcoin-virtual-currency.html?start=1)
+- [POW youtube](https://www.youtube.com/watch?v=K_Ac1Ko8-p8&feature=youtu.be&a=)
 
 #Sidechains/Lightning networks
 - [Blockstream Sidechain Paper](https://www.blockstream.com/wp-content/uploads/2014/10/sidechains.pdf)
