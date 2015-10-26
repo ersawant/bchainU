@@ -175,6 +175,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 
 #Ethereum Dev Tools
 - [Ether Party](http://etherparty.io/)
+- [Truffle Framework](https://github.com/ConsenSys/truffle)
 
 #Academia
 - [Brians Blog](http://suitpossum.blogspot.com/2014/12/academic-bitcoin-research.html)
