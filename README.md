@@ -173,6 +173,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Ethereum Gas Analysis](https://github.com/LeastAuthority/ethereum-analyses)
 - [Rest API's for Ethereum blockchain](http://blockapps.net/apidocs/#introduction)
 - [Ethereum Roman's Notes](http://blog.rplasil.name/search/label/ethereum)
+- [Ethereum Lightning networks](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/#post-258)
 
 #Ethereum Dev Tools
 - [Ether Party](http://etherparty.io/)
