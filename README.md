@@ -168,7 +168,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Solidity](https://eng.erisindustries.com/tutorials/2015/03/11/solidity-1/)
 - [State of Dapps](http://www.slideshare.net/tomoakisato35/dappsmedia-state-of-the-dapps-ethereum-may-2015)
 - [State of Dapps 2](http://dapps.ethercasts.com/)
-- [Ethereum 101] (http://www.ethereum101.org/)
+- [Ethereum 101](http://www.ethereum101.org/)
 - [Cosomo Solidity](http://meteor-dapp-cosmo.meteor.com/)
 - [Ethereum Gas Analysis](https://github.com/LeastAuthority/ethereum-analyses)
 - [Rest API's for Ethereum blockchain](http://blockapps.net/apidocs/#introduction)
@@ -177,6 +177,10 @@ Reading list and useful links. Scroll down for a list of Financial services work
 #Ethereum Dev Tools
 - [Ether Party](http://etherparty.io/)
 - [Truffle Framework](https://github.com/ConsenSys/truffle)
+
+#Ethereuem news
+- [Microsoft] (http://blogs.wsj.com/moneybeat/2015/10/28/bitbeat-microsoft-to-offer-ethereum-based-services-on-azure/)
+- [Reddit] (https://www.reddit.com/r/ethereum)
 
 #Academia
 - [Brians Blog](http://suitpossum.blogspot.com/2014/12/academic-bitcoin-research.html)
