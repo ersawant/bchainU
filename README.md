@@ -99,7 +99,6 @@ Reading list and useful links. Scroll down for a list of Financial services work
 #21inc Tutorials
 - [21 Inc](https://21.co/learn/#developer-reference)
 
-
 #Blockchain in Banks and Financial Services
 - [Citibank](http://cointelegraph.com/news/114717/citi-develops-3-blockchains-with-own-citicoin-token)
 - [Bny Mellon](http://blogs.wsj.com/cio/2015/04/05/bny-mellon-explores-bitcoins-potential/)
@@ -141,6 +140,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [R3CEV Update 3](http://www.coindesk.com/distributed-ledger-firm-r3cev-gains-three-more-banking-partners/)
 - [Ripple and R3CEV ](http://www.businessinsider.com/santander-innoventures-invests-4-million-in-ripple-labs-2015-10)
 - [Nomura Research Institute](https://www.nri.com/global/news/2015/151005_1.aspx)
+- [Ebay Patent](http://www.coindesk.com/ebay-files-for-two-cryptocurrency-patents/)
 
 #Central Banks/Govts/Institutes
 - [Bank of Englad report](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q3digitalcurrenciesbitcoin1.pdf)
