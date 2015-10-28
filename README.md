@@ -180,6 +180,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 
 #Ethereuem news
 - [Microsoft] (http://blogs.wsj.com/moneybeat/2015/10/28/bitbeat-microsoft-to-offer-ethereum-based-services-on-azure/)
+- [Microsoft 2](http://www.bizjournals.com/newyork/news/2015/10/28/microsoft-blockchain-app-ecosystem-consensys.html)
 - [Reddit] (https://www.reddit.com/r/ethereum)
 
 #Academia
