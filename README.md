@@ -199,6 +199,9 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Ledra Captial](http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series)
 - [Red Point](http://tomtunguz.com/fastest-growing-areas-investment-2015/)
 
+#Health Care
+- [Philips](http://www.coindesk.com/health-care-giant-philips-exploring-blockchain-applications/)
+
 #Presentations from Cohort-3
 -  [Rayan X](https://www.dropbox.com/s/b3dav3kaofjwx8h/Bitwise%20Bitcoin-%20Transactions%2C%20Scripts%20and%20Blocks.pdf?dl=0)
 - [BlockCypher](https://docs.google.com/presentation/d/12TdNko6IPmOc-zkGV2ve460GbIC4dmHe1woLBmVbk3A/edit?pli=1#slide=id.g58a7e4756_025)
@@ -216,7 +219,6 @@ Reading list and useful links. Scroll down for a list of Financial services work
 
 #Digital Assets
 - [Choose Case](http://blog.choosecase.com/2015/09/09/white-paper-securing-digital-assets-on-the-blockchain/)
-
 
 #Other Awesome Lists
 - [jashmenn](https://github.com/jashmenn/bitcoin-reading-list)
