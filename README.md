@@ -241,5 +241,6 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Ledra Capital](http://ledracapital.com/blog/?category=Bitcoin) 
 - [Reddit list](https://www.reddit.com/r/blockchainprogramming/comments/3naz2y/github_code_resources_and_online_readingtutorials/)
 - [arctunus](http://www.arcturnus.com/cryptocurrency-links/)
+- [Bitcoin Protocol List](https://www.reddit.com/r/Bitcoin/comments/3q0ine/meta_protocols_list/)
 
 
