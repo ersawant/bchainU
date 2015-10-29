@@ -176,6 +176,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Ethereum Roman's Notes](http://blog.rplasil.name/search/label/ethereum)
 - [Ethereum Lightning networks](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/#post-258)+
 - [Ethereum Dev docs](https://docs.ethereum.org/)
+- [Ethereum ConsenSys](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.yqmrn0od1)
 
 #Ethereum Dev Tools
 - [Ether Party](http://etherparty.io/)
