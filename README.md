@@ -31,6 +31,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 #Bitcoin Address
 - [Sha256 and RIPEMD160](https://bitcoin.stackexchange.com/questions/9202/why-does-bitcoin-use-two-hash-functions-sha-256-and-ripemd-160-to-create-an-ad)
 - [Generate Bitcoin Address with Javascript](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
+- [Sha256](https://docs.google.com/spreadsheets/d/1mOTrqckdetCoRxY5QkVcyQ7Z0gcYIH-Dc0tu7t9f7tw)
 
 #Merkel Trees
 - [Danileloesha](http://danieloshea.com/2011/12/07/merkle-tree.html)
