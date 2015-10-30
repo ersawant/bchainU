@@ -6,6 +6,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 #Start here..
 - [Complete Guide to Bitcoin Blockstrap](http://blockstrap.com/en/a-complete-beginners-guide-to-blockchain-technology/)
 - [Crypography](http://blog.bettercrypto.com/?page_id=57)
+- [Cryptography 2](https://chrispacia.wordpress.com/2013/09/07/bitcoin-cryptography-digital-signatures-explained/)
 - [Christopher Allen Dev Source](https://github.com/ChristopherA/Blockchain-Developer-Resources)
 - [Bitcoin and Blocks](http://bitsonblocks.net/2015/09/09/a-gentle-introduction-to-blockchain-technology/)
 - [Bitcoin terms Part 1](http://blog.blockchain.com/2014/12/23/10-commonly-used-bitcoin-terms-explained/)
@@ -49,11 +50,17 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Mining the hardway](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
 - [Miners](http://cointext.com/what-problem-is-solved-by-bitcoin-miners/)
 - [MIT Presentation](http://cryptogeeks.com/bitcoin-professional-mit-presentation-no-animation-time-about-bitcoin-mining)
+- [Mining -1](https://chrispacia.wordpress.com/2013/09/02/bitcoin-mining-explained-like-youre-five-part-1-incentives/)
+- [Mining -2](https://chrispacia.wordpress.com/2013/09/02/bitcoin-mining-explained-like-youre-five-part-2-mechanics/)
 
 #Proof of work
 - [Python POW](http://alexgorale.com/how-proof-of-work-works)
 - [Iprogrammer POW](http://www.i-programmer.info/babbages-bag/2486-inside-bitcoin-virtual-currency.html?start=1)
 - [POW youtube](https://www.youtube.com/watch?v=K_Ac1Ko8-p8&feature=youtu.be&a=)
+
+#Wallets
+- [Wallets](https://chrispacia.wordpress.com/2013/09/29/bitcoin-explained-like-youre-five-part-4-securing-your-wallet/)
+
 
 #Sidechains/Lightning networks
 - [Blockstream Sidechain Paper](https://www.blockstream.com/wp-content/uploads/2014/10/sidechains.pdf)
@@ -88,6 +95,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Scaling Bitcoin Presentations](https://www.dropbox.com/sh/xrnpadhhee26482/AAD1UYgVDXgYByGe4FnqIWBka?dl=0)
 - [Scaling Bitcoin Youtube](https://www.youtube.com/channel/UCmwaDulmQtX-H8FOSQTKqMg)
 - [Bitfury Research Papers](http://bitfury.com/white-papers-research)
+- [Macroenomics](https://chrispacia.wordpress.com/2014/02/08/bitcoin-explained-like-youre-five-part-5-macroeconomics/)
 
 #Courses on MOOC
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
@@ -190,7 +198,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 #Ethereuem news
 - [Microsoft] (http://blogs.wsj.com/moneybeat/2015/10/28/bitbeat-microsoft-to-offer-ethereum-based-services-on-azure/)
 - [Microsoft 2](http://www.bizjournals.com/newyork/news/2015/10/28/microsoft-blockchain-app-ecosystem-consensys.html)
-- [Reddit] (https://www.reddit.com/r/ethereum)
+- [Reddit](https://www.reddit.com/r/ethereum)
 
 #Academia
 - [Brians Blog](http://suitpossum.blogspot.com/2014/12/academic-bitcoin-research.html)
