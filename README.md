@@ -54,6 +54,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [MIT Presentation](http://cryptogeeks.com/bitcoin-professional-mit-presentation-no-animation-time-about-bitcoin-mining)
 - [Mining -1](https://chrispacia.wordpress.com/2013/09/02/bitcoin-mining-explained-like-youre-five-part-1-incentives/)
 - [Mining -2](https://chrispacia.wordpress.com/2013/09/02/bitcoin-mining-explained-like-youre-five-part-2-mechanics/)
+- [Mining -3](https://www.youtube.com/watch?v=UZBZPOEVyJA&feature=youtu.be)
 
 #Proof of work
 - [Python POW](http://alexgorale.com/how-proof-of-work-works)
