@@ -62,10 +62,10 @@ Reading list and useful links. Scroll down for a list of Financial services work
 #Wallets
 - [Wallets](https://chrispacia.wordpress.com/2013/09/29/bitcoin-explained-like-youre-five-part-4-securing-your-wallet/)
 
-
 #Sidechains/Lightning networks
 - [Blockstream Sidechain Paper](https://www.blockstream.com/wp-content/uploads/2014/10/sidechains.pdf)
 - [Lightning networks](http://rusty.ozlabs.org/?p=450)
+- [Lightning networks BCU](https://docs.google.com/presentation/d/1MYNshIIQlDf558nbAOmbbvJa0vvgfuJtX3_VxWYCRkI/edit?pli=1#slide=id.ge654b3895_0_0)
 - [Factom Whitepaper](https://github.com/FactomProject/FactomDocs/blob/master/whitepaper.md)
 
 #IDE and Dev tools
