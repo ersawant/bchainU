@@ -132,6 +132,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [First Data Gyft](https://medium.com/@giyom/building-gift-cards-2-0-on-the-block-chain-3ae9e7cf4152)
 - [Visa](http://www.livemint.com/Industry/xFjsCbdRBon4Z0zTcTCagM/Visa-joins-firms-betting-on-technology-behind-Bitcoin.html)
 - [Visa](http://www.forbes.com/sites/laurashin/2015/09/09/visa-citi-nasdaq-invest-30-million-in-blockchain-startup-chain-com/)
+- [Visa Europe](http://www.coindesk.com/visa-europe-announces-blockchain-remittance-proof-of-concept/)
 - [Mastercard](http://www.coindesk.com/mastercard-cibc-and-new-york-life-join-dcg-funding-round/)
 - [Amex](http://www.coindesk.com/how-american-express-is-testing-the-waters-of-bitcoin-and-the-blockchain/)
 - [Goldman Sach's report](https://slack-files.com/T04BV3AFV-F06KT10BS-82d72f1308)
@@ -202,6 +203,10 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Microsoft] (http://blogs.wsj.com/moneybeat/2015/10/28/bitbeat-microsoft-to-offer-ethereum-based-services-on-azure/)
 - [Microsoft 2](http://www.bizjournals.com/newyork/news/2015/10/28/microsoft-blockchain-app-ecosystem-consensys.html)
 - [Reddit](https://www.reddit.com/r/ethereum)
+
+- [Ethereuem Devcon1 Day2](https://www.youtube.com/watch?v=ctZ1Wd78no4)
+- [Ethereuem Devcon1 Day3](https://www.youtube.com/watch?v=O_7GhBEHu5k)
+- [Ethereuem Devcon1 Day4](https://www.youtube.com/watch?v=lmsOP1D8zNs)
 
 #Academia
 - [Brians Blog](http://suitpossum.blogspot.com/2014/12/academic-bitcoin-research.html)
