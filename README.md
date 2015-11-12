@@ -124,6 +124,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Long Finance Insurance Paper](http://www.longfinance.net/images/Chain_Of_A_Lifetime_December2014.pdf)
 - [NASDAQ](http://www.nasdaq.com/press-release/nasdaq-launches-enterprisewide-blockchain-technology-initiative-20150511-00485)
 - [RBS Bank](http://www.coindesk.com/rbs-trials-ripple-part-3-5-billion-tech-revamp/)
+- [RBC Bank](http://www.americanbanker.com/news/bank-technology/legacy-systems-threaten-banks-more-than-startups-rbc-head-mckay-1077775-1.html)
 - [Fidor Bank](http://www.coindesk.com/fidor-becomes-first-bank-to-use-ripple-payment-protocol/)
 - [ANZ Bank](http://www.newsbtc.com/2015/06/09/westpac-and-anz-join-ripple-labs-bandwagon-with-cba/)
 - [Commonwealth Bank](http://www.newsbtc.com/2015/06/01/commonwealth-bank-of-australia-to-work-with-ripple-labs/)
