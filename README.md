@@ -208,6 +208,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Ethereuem Devcon1 Day2](https://www.youtube.com/watch?v=ctZ1Wd78no4)
 - [Ethereuem Devcon1 Day3](https://www.youtube.com/watch?v=O_7GhBEHu5k)
 - [Ethereuem Devcon1 Day4](https://www.youtube.com/watch?v=lmsOP1D8zNs)
+- [Ethereuem Devcon1 Day5](https://www.youtube.com/watch?v=34RfEodTn_w)
 
 #Academia
 - [Brians Blog](http://suitpossum.blogspot.com/2014/12/academic-bitcoin-research.html)
