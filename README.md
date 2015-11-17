@@ -17,7 +17,6 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Hex tutorial](http://quashnick.net/geek_stuff/HEX2DEC.html)
 - [Hex to Decimal](http://www.rapidtables.com/convert/number/hex-to-decimal.htm)
 - [Bitcoin the hardway](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
-- [Math behind bitcoin](http://blog.chain.com/post/95218566791/the-math-behind-bitcoin)
 - [Endianess](http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
 
 #Elliptic Curves  
@@ -27,6 +26,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Royal fork blog](http://www.royalforkblog.com/2014/09/04/ecc/)
 - [Division and Inversion Over Finite Fields](http://cdn.intechopen.com/pdfs-wm/29704.pdf)
 - [Cryptocompare](https://www.cryptocompare.com/wallets/guides/what-is-elliptic-curve-cryptography/)
+- [Math behind bitcoin](http://blog.chain.com/post/95218566791/the-math-behind-bitcoin)
 
 #Bitcoin Address
 - [Sha256 and RIPEMD160](https://bitcoin.stackexchange.com/questions/9202/why-does-bitcoin-use-two-hash-functions-sha-256-and-ripemd-160-to-create-an-ad)
