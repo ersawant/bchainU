@@ -170,6 +170,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [CFA Institute](http://www.cfainstitute.org/learning/products/multimedia/Pages/120025.aspx?WPID=BrowseProducts)
 - [Federal Reserve](http://www.federalreserve.gov/econresdata/feds/2014/files/2014104pap.pdf)
 - [Fidelity Investments](https://www.cryptocoinsnews.com/one-worlds-largest-mutual-fund-2-trillion-aum-wants-trademark-fidelitycoin/)
+- [LSE,SocGen etc](http://www.efinancialnews.com/story/2015-11-16/blockchain-lse-lch-clearnet-socgen-cme-ubs-euroclear)
 - [Another List](https://www.coingecko.com/buzz/16-banks-experimenting-with-blockchain-technology?locale=en)
 
 #IOT and Blockchain
@@ -231,6 +232,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
 - [Ledra Captial](http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series)
 - [Red Point](http://tomtunguz.com/fastest-growing-areas-investment-2015/)
+
 
 #Health Care
 - [Philips](http://www.coindesk.com/health-care-giant-philips-exploring-blockchain-applications/)
