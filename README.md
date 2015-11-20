@@ -62,6 +62,10 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Iprogrammer POW](http://www.i-programmer.info/babbages-bag/2486-inside-bitcoin-virtual-currency.html?start=1)
 - [POW youtube](https://www.youtube.com/watch?v=K_Ac1Ko8-p8&feature=youtu.be&a=)
 
+#Python Bitcoin Blockchain Tutorials
+- [alexgorale](http://alexgorale.com/how-to-program-block-chain-explorers-with-python-part-1)
+- [alexgorale](http://alexgorale.com/how-to-program-block-chain-explorers-with-python-part-2)
+
 #Wallets
 - [Wallets](https://chrispacia.wordpress.com/2013/09/29/bitcoin-explained-like-youre-five-part-4-securing-your-wallet/)
 
@@ -234,7 +238,6 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
 - [Ledra Captial](http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series)
 - [Red Point](http://tomtunguz.com/fastest-growing-areas-investment-2015/)
-
 
 #Health Care
 - [Philips](http://www.coindesk.com/health-care-giant-philips-exploring-blockchain-applications/)
