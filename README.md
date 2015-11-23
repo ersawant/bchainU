@@ -177,6 +177,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Federal Reserve](http://www.federalreserve.gov/econresdata/feds/2014/files/2014104pap.pdf)
 - [Fidelity Investments](https://www.cryptocoinsnews.com/one-worlds-largest-mutual-fund-2-trillion-aum-wants-trademark-fidelitycoin/)
 - [LSE,SocGen etc](http://www.efinancialnews.com/story/2015-11-16/blockchain-lse-lch-clearnet-socgen-cme-ubs-euroclear)
+- [BIS Digital Currency](http://www.bis.org/cpmi/publ/d137.pdf)
 - [Another List](https://www.coingecko.com/buzz/16-banks-experimenting-with-blockchain-technology?locale=en)
 
 #IOT and Blockchain
