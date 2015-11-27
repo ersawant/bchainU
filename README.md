@@ -258,6 +258,9 @@ Reading list and useful links. Scroll down for a list of Financial services work
 #Micro Payments
 - [Whitepapers](https://github.com/utxo/wheels/wiki)
 
+#Insurance
+- [Lloyds](http://www.lloyds.com/~/media/files/the%20market/operating%20at%20lloyds/tom/technology%20revolution/michael%20mainelli_the%20technology%20revolution.pdf)
+
 #Digital Assets
 - [Choose Case](http://blog.choosecase.com/2015/09/09/white-paper-securing-digital-assets-on-the-blockchain/)
 
@@ -268,5 +271,6 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Reddit list](https://www.reddit.com/r/blockchainprogramming/comments/3naz2y/github_code_resources_and_online_readingtutorials/)
 - [arctunus](http://www.arcturnus.com/cryptocurrency-links/)
 - [Bitcoin Protocol List](https://www.reddit.com/r/Bitcoin/comments/3q0ine/meta_protocols_list/)
+
 
 
