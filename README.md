@@ -126,7 +126,6 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [UBS bank Research labs](http://www.ibtimes.co.uk/ubs-reveals-its-interest-sidechains-well-ethereum-1519706)
 - [DBS bank](http://bravenewcoin.com/news/dbs-bank-to-host-blockchain-hackathon/)
 - [USAA](http://www.coindesk.com/usaa-blockchain-technology-decentralize-operations/)
-- [Long Finance Insurance Paper](http://www.longfinance.net/images/Chain_Of_A_Lifetime_December2014.pdf)
 - [NASDAQ](http://www.nasdaq.com/press-release/nasdaq-launches-enterprisewide-blockchain-technology-initiative-20150511-00485)
 - [RBS Bank](http://www.coindesk.com/rbs-trials-ripple-part-3-5-billion-tech-revamp/)
 - [RBC Bank](http://www.americanbanker.com/news/bank-technology/legacy-systems-threaten-banks-more-than-startups-rbc-head-mckay-1077775-1.html)
@@ -260,6 +259,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 
 #Insurance
 - [Lloyds](http://www.lloyds.com/~/media/files/the%20market/operating%20at%20lloyds/tom/technology%20revolution/michael%20mainelli_the%20technology%20revolution.pdf)
+- [Long Finance Insurance Paper](http://www.longfinance.net/images/Chain_Of_A_Lifetime_December2014.pdf)
 
 #Digital Assets
 - [Choose Case](http://blog.choosecase.com/2015/09/09/white-paper-securing-digital-assets-on-the-blockchain/)
