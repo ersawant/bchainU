@@ -141,6 +141,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Mastercard](http://www.coindesk.com/mastercard-cibc-and-new-york-life-join-dcg-funding-round/)
 - [Amex](http://www.coindesk.com/how-american-express-is-testing-the-waters-of-bitcoin-and-the-blockchain/)
 - [Goldman Sach's report](https://slack-files.com/T04BV3AFV-F06KT10BS-82d72f1308)
+- [Goldman Sach's Patent](http://www.americanbanker.com/news/bank-technology/goldman-sachs-files-patent-for-cryptocurrency-system-setlcoin-1078153-1.html)
 - [ABN-AMRO,ING Bank,Rabo Bank](http://www.cryptosnews.com/?p=997)
 - [Deloitte](http://www.coindesk.com/deloitte-blockchain-auditing-consulting/)
 - [Deloitte Rubix](http://rubixbydeloitte.com/)
