@@ -102,6 +102,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Digital Asset Holdings](http://www.bloomberg.com/news/features/2015-09-01/blythe-masters-tells-banks-the-blockchain-changes-everything)
 - [Scaling Bitcoin Presentations](https://www.dropbox.com/sh/xrnpadhhee26482/AAD1UYgVDXgYByGe4FnqIWBka?dl=0)
 - [Scaling Bitcoin Youtube](https://www.youtube.com/channel/UCmwaDulmQtX-H8FOSQTKqMg)
+- [Scaling Bitcoin 2](http://www.slideshare.net/jgarzik/a-bevy-of-block-size-proposals-scaling-bitcoin-hk-2015)
 - [Bitfury Research Papers](http://bitfury.com/white-papers-research)
 - [Macroenomics](https://chrispacia.wordpress.com/2014/02/08/bitcoin-explained-like-youre-five-part-5-macroeconomics/)
 
