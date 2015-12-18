@@ -163,6 +163,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [R3CEV Update](http://www.finextra.com/news/fullstory.aspx?newsitemid=27906)
 - [R3CEV Update 3](http://www.coindesk.com/distributed-ledger-firm-r3cev-gains-three-more-banking-partners/)
 - [R3CEV Update 4](http://www.finextra.com/news/fullstory.aspx?newsitemid=28155)
+- [R3CEV Update 5](http://www.coindesk.com/twelve-banks-blockchain-consortium-r3/)
 - [Ripple and R3CEV ](http://www.businessinsider.com/santander-innoventures-invests-4-million-in-ripple-labs-2015-10)
 - [Nomura Research Institute](https://www.nri.com/global/news/2015/151005_1.aspx)
 - [Needham Investments report](https://needham.bluematrix.com/sellside/EmailDocViewer?encrypt=4aaafaf1-d76e-4ee3-9406-7d0ad3c0d019&mime=pdf&co=needham&id=sbogart@needhamco.com&source=mail)
@@ -235,6 +236,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Cornell Bitcoin-ng](http://hackingdistributed.com/2015/10/14/bitcoin-ng/)
 - [Univ of Twente](http://essay.utwente.nl/66966/1/Huls_MA_EWI.pdf)
 - [NUS singapore](http://people.cs.uchicago.edu/~teutsch/papers/ethereum-cc.pdf)
+- [Cornell Papers](http://initc3.org/publications)
 
 #Venture Capital
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
