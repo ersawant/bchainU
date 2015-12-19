@@ -237,6 +237,8 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Univ of Twente](http://essay.utwente.nl/66966/1/Huls_MA_EWI.pdf)
 - [NUS singapore](http://people.cs.uchicago.edu/~teutsch/papers/ethereum-cc.pdf)
 - [Cornell Papers](http://initc3.org/publications)
+- [Public vs Private Blockchain Part-1](http://bitfury.com/content/4-white-papers-research/public-vs-private-pt1-1.pdf)
+- [Public vs Private Blockchain Part-2](http://bitfury.com/content/4-white-papers-research/public-vs-private-pt2-1.pdf)
 
 #Venture Capital
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
