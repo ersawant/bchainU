@@ -277,6 +277,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Reddit list](https://www.reddit.com/r/blockchainprogramming/comments/3naz2y/github_code_resources_and_online_readingtutorials/)
 - [arctunus](http://www.arcturnus.com/cryptocurrency-links/)
 - [Bitcoin Protocol List](https://www.reddit.com/r/Bitcoin/comments/3q0ine/meta_protocols_list/)
+- [Blockchain Financial Services](http://www.slideshare.net/wmougayar/blockchain-2015-analyzing-the-blockchain-in-financial-services)
 
 
 
