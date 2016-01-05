@@ -278,6 +278,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [arctunus](http://www.arcturnus.com/cryptocurrency-links/)
 - [Bitcoin Protocol List](https://www.reddit.com/r/Bitcoin/comments/3q0ine/meta_protocols_list/)
 - [Blockchain Financial Services](http://www.slideshare.net/wmougayar/blockchain-2015-analyzing-the-blockchain-in-financial-services)
+- [Jeremey Clark](http://users.encs.concordia.ca/~clark/biblio.php#bitcoin)
 
 
 
