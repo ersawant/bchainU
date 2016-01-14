@@ -222,6 +222,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 
 #Academia
 - [Brians Blog](http://suitpossum.blogspot.com/2014/12/academic-bitcoin-research.html)
+- [Brians List](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/edit#gid=0)
 - [Stanford](http://bitcoin.stanford.edu/)
 - [Enigma MIT](http://enigma.media.mit.edu/)
 - [MIT digital currency initiative](https://medium.com/mit-media-lab-digital-currency-initiative/launching-a-digital-currency-initiative-238fc678aba2)
