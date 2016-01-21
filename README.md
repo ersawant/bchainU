@@ -164,6 +164,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [R3CEV Update 3](http://www.coindesk.com/distributed-ledger-firm-r3cev-gains-three-more-banking-partners/)
 - [R3CEV Update 4](http://www.finextra.com/news/fullstory.aspx?newsitemid=28155)
 - [R3CEV Update 5](http://www.coindesk.com/twelve-banks-blockchain-consortium-r3/)
+- [R3CEV Update 6](http://www.coindesk.com/r3cev-blockchain-test-11-banks/)
 - [Ripple and R3CEV ](http://www.businessinsider.com/santander-innoventures-invests-4-million-in-ripple-labs-2015-10)
 - [Nomura Research Institute](https://www.nri.com/global/news/2015/151005_1.aspx)
 - [Needham Investments report](https://needham.bluematrix.com/sellside/EmailDocViewer?encrypt=4aaafaf1-d76e-4ee3-9406-7d0ad3c0d019&mime=pdf&co=needham&id=sbogart@needhamco.com&source=mail)
@@ -180,6 +181,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Fidelity Investments](https://www.cryptocoinsnews.com/one-worlds-largest-mutual-fund-2-trillion-aum-wants-trademark-fidelitycoin/)
 - [LSE,SocGen etc](http://www.efinancialnews.com/story/2015-11-16/blockchain-lse-lch-clearnet-socgen-cme-ubs-euroclear)
 - [BIS Digital Currency](http://www.bis.org/cpmi/publ/d137.pdf)
+- [IMF whitepaper](http://www.imf.org/external/pubs/ft/sdn/2016/sdn1603.pdf)
 - [Another List](https://www.coingecko.com/buzz/16-banks-experimenting-with-blockchain-technology?locale=en)
 
 #IOT and Blockchain
