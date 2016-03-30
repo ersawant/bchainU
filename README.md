@@ -246,6 +246,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Public vs Private Blockchain Part-2](http://bitfury.com/content/4-white-papers-research/public-vs-private-pt2-1.pdf)
 - [Decentralization Cornell](http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf)
 - [Bitcoin Research Papers](http://cdecker.github.io/btcresearch/)
+- [Bitcoin Financial Market Paper](http://media.bizj.us/view/img/8744032/blockchain-technology-academic-research.pdf)
 
 #Venture Capital
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
