@@ -153,6 +153,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Deutsche Bank Research](https://www.dbresearch.de/servlet/reweb2.ReWEB;jsessionid=49EA7D06E941D35779A42A2B27BF25F5.srv-net-dbr-de?document=PROD0000000000359046&rwnode=DBR_INTERNET_EN-PROD$TEAMS_EN&rwobj=ReDisplay.Start.class&rwsite=DBR_INTERNET_en-PROD)
 - [Barclay's Bank](https://bitcoinmagazine.com/21469/ethereum-version-tailored-banks-developed-barclays-interested/)
 - [Accenture](https://bitcoinmagazine.com/21427/accenture-executives-propose-replacing-bitcoin-closed-blockchain/)
+- [SWIFT&Accenture](https://www.swift.com/insights/press-releases/swift-and-accenture-outline-path-to-distributed-ledger-technology-adoption-within-financial-services)
 - [PWC](http://www.pwc.com/us/en/financial-services/publications/assets/pwc-cryptocurrency-evolution.pdf)
 - [Deloitte](http://www2.deloitte.com/uk/en/pages/innovation/articles/blockchain.html)
 - [Deloitte](http://blog.colu.co/colu-blog/2015/10/27/new-announcements-new-releases-new-integrations)
