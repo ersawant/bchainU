@@ -170,6 +170,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [R3CEV Update 5](http://www.coindesk.com/twelve-banks-blockchain-consortium-r3/)
 - [R3CEV Update 6](http://www.coindesk.com/r3cev-blockchain-test-11-banks/)
 - [R3CEV Update 7](http://www.coindesk.com/r3-blockchain-new-partnerships/)
+- [R3CEV Update 8](http://www.coindesk.com/brazils-bank-itau-blockchain-consortium-r3/?utm_content=bufferc3b1b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Ripple and R3CEV ](http://www.businessinsider.com/santander-innoventures-invests-4-million-in-ripple-labs-2015-10)
 - [Nomura Research Institute](https://www.nri.com/global/news/2015/151005_1.aspx)
 - [Needham Investments report](https://needham.bluematrix.com/sellside/EmailDocViewer?encrypt=4aaafaf1-d76e-4ee3-9406-7d0ad3c0d019&mime=pdf&co=needham&id=sbogart@needhamco.com&source=mail)
