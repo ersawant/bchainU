@@ -255,6 +255,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
 - [Ledra Captial](http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series)
 - [Red Point](http://tomtunguz.com/fastest-growing-areas-investment-2015/)
+- [Blockchain Capital](http://blockchain.capital/index.html)
 
 #Health Care
 - [Philips](http://www.coindesk.com/health-care-giant-philips-exploring-blockchain-applications/)
