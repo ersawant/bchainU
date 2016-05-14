@@ -262,6 +262,9 @@ Reading list and useful links. Scroll down for a list of Financial services work
 
 #Health Care
 - [Philips](http://www.coindesk.com/health-care-giant-philips-exploring-blockchain-applications/)
+- 
+#Supply Chain
+- [Suppl Chain Paper](http://www.supplychain247.com/article/how_bitcoins_technology_could_make_supply_chains_more_transparent)
 
 #Presentations from Cohort-3
 -  [Rayan X](https://www.dropbox.com/s/b3dav3kaofjwx8h/Bitwise%20Bitcoin-%20Transactions%2C%20Scripts%20and%20Blocks.pdf?dl=0)
