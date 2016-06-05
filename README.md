@@ -24,7 +24,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Elliptic curve](https://www.youtube.com/watch?v=kzyLW44Ve2k&feature=youtu.be)
 - [Elliptic curve in node](https://github.com/indutny/elliptic)
 - [Elliptic curve explained](https://www.cryptocompare.com/wallets/guides/what-is-elliptic-curve-cryptography/)
-- [Royal fork blog](http://www.royalforkblog.com/2014/09/04/ecc/)
+- [Royal fork blog](http://royalforkblog.github.io/)
 - [Division and Inversion Over Finite Fields](http://cdn.intechopen.com/pdfs-wm/29704.pdf)
 - [Cryptocompare](https://www.cryptocompare.com/wallets/guides/what-is-elliptic-curve-cryptography/)
 - [Math behind bitcoin](http://blog.chain.com/post/95218566791/the-math-behind-bitcoin)
