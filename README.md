@@ -65,7 +65,8 @@ Reading list and useful links. Scroll down for a list of Financial services work
 #Python Bitcoin Blockchain Tutorials
 - [alexgorale](http://alexgorale.com/how-to-program-block-chain-explorers-with-python-part-1)
 - [alexgorale](http://alexgorale.com/how-to-program-block-chain-explorers-with-python-part-2)
-
+- [Shlomi]()https://www.youtube.com/watch?v=AjCswCRBHdc
+ 
 #Wallets
 - [Wallets](https://chrispacia.wordpress.com/2013/09/29/bitcoin-explained-like-youre-five-part-4-securing-your-wallet/)
 
