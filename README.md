@@ -259,6 +259,7 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [Decentralization Cornell](http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf)
 - [Bitcoin Research Papers](http://cdecker.github.io/btcresearch/)
 - [Bitcoin Financial Market Paper](http://media.bizj.us/view/img/8744032/blockchain-technology-academic-research.pdf)
+- [ECMA Whitepaper](https://www.esma.europa.eu/sites/default/files/library/2016-773_dp_dlt.pdf)
 
 #Venture Capital
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
