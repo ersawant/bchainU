@@ -76,6 +76,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Lightning networks BCU](https://docs.google.com/presentation/d/1MYNshIIQlDf558nbAOmbbvJa0vvgfuJtX3_VxWYCRkI/edit?pli=1#slide=id.ge654b3895_0_0)https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-creating-the-network-1465326903)
 - Lightning networks Part-1(https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791)
 - Lightning networks Part-2(https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-creating-the-network-1465326903)
+- Lightning networks Part-3(http://bit.ly/1UgjOhv)
 - [Factom Whitepaper](https://github.com/FactomProject/FactomDocs/blob/master/whitepaper.md)
 
 #IDE and Dev tools
