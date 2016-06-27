@@ -262,6 +262,9 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [Bitcoin Financial Market Paper](http://media.bizj.us/view/img/8744032/blockchain-technology-academic-research.pdf)
 - [ECMA Whitepaper](https://www.esma.europa.eu/sites/default/files/library/2016-773_dp_dlt.pdf)
 
+#Cloud Providers
+- [Microsoft Azure](https://github.com/Azure/azure-blockchain-projects/blob/master/bletchley/bletchley-whitepaper.md)
+
 #Venture Capital
 - [VC Fund](http://www.coindesk.com/10-vc-firms-bullish-on-bitcoins-potential/)
 - [Ledra Captial](http://ledracapital.com/blog/2013/12/28/the-ledra-bitcoin-series)
