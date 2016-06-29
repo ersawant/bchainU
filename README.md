@@ -198,7 +198,6 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [Evry Bank 2020 report](https://www.evry.com/globalassets/insight/bank2020/bank-2020---blockchain-powering-the-internet-of-value---whitepaper.pdf)
 - [Another List](https://www.coingecko.com/buzz/16-banks-experimenting-with-blockchain-technology?locale=en)
 
-
 #IOT and Blockchain
 - [Filament](http://www.coindesk.com/filament-nets-5-million-for-blockchain-based-internet-of-things-hardware/)
 
@@ -261,6 +260,7 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [Bitcoin Research Papers](http://cdecker.github.io/btcresearch/)
 - [Bitcoin Financial Market Paper](http://media.bizj.us/view/img/8744032/blockchain-technology-academic-research.pdf)
 - [ECMA Whitepaper](https://www.esma.europa.eu/sites/default/files/library/2016-773_dp_dlt.pdf)
+- [Univ of Greece](https://bitcoinschool.gr/#schedule)
 
 #Cloud Providers
 - [Microsoft Azure](https://github.com/Azure/azure-blockchain-projects/blob/master/bletchley/bletchley-whitepaper.md)
@@ -308,6 +308,4 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [Bitcoin Protocol List](https://www.reddit.com/r/Bitcoin/comments/3q0ine/meta_protocols_list/)
 - [Blockchain Financial Services](http://www.slideshare.net/wmougayar/blockchain-2015-analyzing-the-blockchain-in-financial-services)
 - [Jeremey Clark](http://users.encs.concordia.ca/~clark/biblio.php#bitcoin)
-
-
 
