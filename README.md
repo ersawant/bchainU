@@ -109,6 +109,7 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Scaling Bitcoin 2](http://www.slideshare.net/jgarzik/a-bevy-of-block-size-proposals-scaling-bitcoin-hk-2015)
 - [Bitfury Research Papers](http://bitfury.com/white-papers-research)
 - [Macroenomics](https://chrispacia.wordpress.com/2014/02/08/bitcoin-explained-like-youre-five-part-5-macroeconomics/)
+- [Bitcoin Visualization](http://oreil.ly/29ivkD4)
 
 #Courses on MOOC
 - [Crypto intro](http://wiki.crypto.rub.de/Buch/movies.php#)
