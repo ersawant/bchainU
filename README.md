@@ -310,4 +310,4 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [Bitcoin Protocol List](https://www.reddit.com/r/Bitcoin/comments/3q0ine/meta_protocols_list/)
 - [Blockchain Financial Services](http://www.slideshare.net/wmougayar/blockchain-2015-analyzing-the-blockchain-in-financial-services)
 - [Jeremey Clark](http://users.encs.concordia.ca/~clark/biblio.php#bitcoin)
-
+- [Google Drive](https://docs.google.com/document/d/1p-VvUEVIqcIBgGjGnsY8k_tltpuWbLTAWh1nA0A1i5k/edit)
