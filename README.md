@@ -35,6 +35,9 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Sha256](https://docs.google.com/spreadsheets/d/1mOTrqckdetCoRxY5QkVcyQ7Z0gcYIH-Dc0tu7t9f7tw)
 - [Sha256 explained](https://docs.google.com/spreadsheets/d/1mOTrqckdetCoRxY5QkVcyQ7Z0gcYIH-Dc0tu7t9f7tw/edit?pli=1#gid=1194752368)
 
+#Bitcoin Scripting 
+- [Node.js](https://drive.google.com/file/d/0B-EU9txb0XfwYkE1eFFVLW1tLU0/view)
+
 #Merkel Trees
 - [Danileloesha](http://danieloshea.com/2011/12/07/merkle-tree.html)
 - [Youtube](https://www.youtube.com/watch?v=gUwXCt1qkBU)
