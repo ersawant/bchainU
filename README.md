@@ -74,9 +74,10 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Blockstream Sidechain Paper](https://www.blockstream.com/wp-content/uploads/2014/10/sidechains.pdf)
 - [Lightning networks](http://rusty.ozlabs.org/?p=450)
 - [Lightning networks BCU](https://docs.google.com/presentation/d/1MYNshIIQlDf558nbAOmbbvJa0vvgfuJtX3_VxWYCRkI/edit?pli=1#slide=id.ge654b3895_0_0)https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-creating-the-network-1465326903)
-- Lightning networks Part-1(https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791)
-- Lightning networks Part-2(https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-creating-the-network-1465326903)
-- Lightning networks Part-3(http://bit.ly/1UgjOhv)
+- [Lightning networks Part-1](https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791)
+- [Lightning networks Part-2(https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-creating-the-network-1465326903)
+- [Lightning networks Part-3](http://bit.ly/1UgjOhv)
+- [Lightning network Bitfury](http://bitfury.com/content/5-white-papers-research/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf)
 - [Factom Whitepaper](https://github.com/FactomProject/FactomDocs/blob/master/whitepaper.md)
 
 #IDE and Dev tools
