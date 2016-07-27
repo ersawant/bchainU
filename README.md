@@ -266,6 +266,7 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [Bitcoin Financial Market Paper](http://media.bizj.us/view/img/8744032/blockchain-technology-academic-research.pdf)
 - [ECMA Whitepaper](https://www.esma.europa.eu/sites/default/files/library/2016-773_dp_dlt.pdf)
 - [Univ of Greece](https://bitcoinschool.gr/#schedule)
+- [Zurich Tech Conference](https://www.zurich.ibm.com/dccl/#program)
 
 #Cloud Providers
 - [Microsoft Azure](https://github.com/Azure/azure-blockchain-projects/blob/master/bletchley/bletchley-whitepaper.md)
