@@ -201,6 +201,7 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [IMF whitepaper](http://www.imf.org/external/pubs/ft/sdn/2016/sdn1603.pdf)
 - [ECB Central White Paper](https://www.ecb.europa.eu/pub/pdf/scpops/ecbop172.en.pdf)
 - [Evry Bank 2020 report](https://www.evry.com/globalassets/insight/bank2020/bank-2020---blockchain-powering-the-internet-of-value---whitepaper.pdf)
+- [WEF Report](http://www3.weforum.org/docs/WEF_The_future_of_financial_infrastructure.pdf)
 - [Another List](https://www.coingecko.com/buzz/16-banks-experimenting-with-blockchain-technology?locale=en)
 
 #IOT and Blockchain
