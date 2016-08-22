@@ -268,6 +268,7 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [ECMA Whitepaper](https://www.esma.europa.eu/sites/default/files/library/2016-773_dp_dlt.pdf)
 - [Univ of Greece](https://bitcoinschool.gr/#schedule)
 - [Zurich Tech Conference](https://www.zurich.ibm.com/dccl/#program)
+- [Microsoft Research/Stanford](http://research.microsoft.com/en-us/um/people/nswamy/papers/solidether.pdf)
 
 #Cloud Providers
 - [Microsoft Azure](https://github.com/Azure/azure-blockchain-projects/blob/master/bletchley/bletchley-whitepaper.md)
