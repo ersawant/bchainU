@@ -237,7 +237,6 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [Microsoft] (http://blogs.wsj.com/moneybeat/2015/10/28/bitbeat-microsoft-to-offer-ethereum-based-services-on-azure/)
 - [Microsoft 2](http://www.bizjournals.com/newyork/news/2015/10/28/microsoft-blockchain-app-ecosystem-consensys.html)
 - [Reddit](https://www.reddit.com/r/ethereum)
-
 - [Ethereuem Devcon1 Day2](https://www.youtube.com/watch?v=ctZ1Wd78no4)
 - [Ethereuem Devcon1 Day3](https://www.youtube.com/watch?v=O_7GhBEHu5k)
 - [Ethereuem Devcon1 Day4](https://www.youtube.com/watch?v=lmsOP1D8zNs)
@@ -270,6 +269,7 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [Univ of Greece](https://bitcoinschool.gr/#schedule)
 - [Zurich Tech Conference](https://www.zurich.ibm.com/dccl/#program)
 - [Microsoft Research/Stanford](http://research.microsoft.com/en-us/um/people/nswamy/papers/solidether.pdf)
+- [W3C Whitepaper](https://www.w3.org/2016/04/blockchain-workshop/report.html)
 
 #Cloud Providers
 - [Microsoft Azure](https://github.com/Azure/azure-blockchain-projects/blob/master/bletchley/bletchley-whitepaper.md)
