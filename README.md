@@ -282,7 +282,8 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 
 #Health Care
 - [Philips](http://www.coindesk.com/health-care-giant-philips-exploring-blockchain-applications/)
-- 
+- [Healthcare Papers](http://www.hhs.gov/about/news/2016/08/29/onc-announces-blockchain-challenge-winners.html)
+
 #Supply Chain
 - [Supply Chain Paper](http://www.supplychain247.com/article/how_bitcoins_technology_could_make_supply_chains_more_transparent)
  - [IBM Supply Chain Demo](https://www.youtube.com/watch?v=F0P7NM7d-ps)
