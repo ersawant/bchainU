@@ -164,6 +164,7 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [Deutsche Bank Research](https://www.dbresearch.de/servlet/reweb2.ReWEB;jsessionid=49EA7D06E941D35779A42A2B27BF25F5.srv-net-dbr-de?document=PROD0000000000359046&rwnode=DBR_INTERNET_EN-PROD$TEAMS_EN&rwobj=ReDisplay.Start.class&rwsite=DBR_INTERNET_en-PROD)
 - [Barclay's Bank](https://bitcoinmagazine.com/21469/ethereum-version-tailored-banks-developed-barclays-interested/)
 - [Morgan Stanely](http://news-cdn.efinancialcareers.com/wp-content/uploads/Morgan-Stanley-blockchain-report.pdf)
+- [Credit Union](https://www.finextra.com/newsarticle/29385/credit-unions-create-their-own-r3-like-blockchain-consortium)
 - [Accenture](https://bitcoinmagazine.com/21427/accenture-executives-propose-replacing-bitcoin-closed-blockchain/)
 - [SWIFT&Accenture](https://www.swift.com/insights/press-releases/swift-and-accenture-outline-path-to-distributed-ledger-technology-adoption-within-financial-services)
 - [PWC](http://www.pwc.com/us/en/financial-services/publications/assets/pwc-cryptocurrency-evolution.pdf)
