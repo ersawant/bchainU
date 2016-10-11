@@ -325,3 +325,4 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 - [Blockchain Financial Services](http://www.slideshare.net/wmougayar/blockchain-2015-analyzing-the-blockchain-in-financial-services)
 - [Jeremey Clark](http://users.encs.concordia.ca/~clark/biblio.php#bitcoin)
 - [Google Drive](https://docs.google.com/document/d/1p-VvUEVIqcIBgGjGnsY8k_tltpuWbLTAWh1nA0A1i5k/edit)
+- [Tech Crunch](http://tcrn.ch/2e1mbkF)
