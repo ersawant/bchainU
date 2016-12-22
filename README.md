@@ -88,9 +88,9 @@ Reading list and useful links. Scroll down for a list of Financial services work
 - [Brain Wallet](http://www.brainwallet.org)
 - [Bitaddress](http://www.bitaddress.org)
 - [Bit2Factor](http://www.bit2factor.org)
-- [BIP39](https://dcpos.github.io/bip39/)
-
-#Other stuff
+- [BIP39 (https://dcpos.github.io/bip39/)
+- [Node.js] (http://www.slideshare.net/LearnWTB/bitcoin-scripts-using-nodejs
+#Other stuff)
 - [Minimal Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
 - [Microtransaction](http://quartzjer.github.io/pennybank/)
 - [Tim Swanson slides](http://www.slideshare.net/MrCollectrix/the-distributed-ledger-landscape)
