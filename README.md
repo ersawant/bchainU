@@ -289,6 +289,7 @@ http://santanderinnoventures.com/wp-content/uploads/2015/06/The-Fintech-2-0-Pape
 #Supply Chain
 - [Supply Chain Paper](http://www.supplychain247.com/article/how_bitcoins_technology_could_make_supply_chains_more_transparent)
  - [IBM Supply Chain Demo](https://www.youtube.com/watch?v=F0P7NM7d-ps)
+ - [UBS Blockchain ](https://www.ubs.com/magazines/innovation/en/into-the-future/2017/new-paradigm-for-global-supply-chain.html)
  
 #BPM
 - [BPM and Blockchain](http://improving-bpm-systems.blogspot.ch/2016/01/entarch-view-on-blockchain.html)
